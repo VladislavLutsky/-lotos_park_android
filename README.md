@@ -1,0 +1,3 @@
+FFFFFFFFUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCK
+
+позже я напишу нормальный ридми, ибо 3тий раз уже устали пальцы. Если на этот раз получится...
