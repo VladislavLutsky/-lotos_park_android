@@ -11,4 +11,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button2" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextViewыЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫЫ"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="309dp"
+        android:fontFamily="@font/mullerregular"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
