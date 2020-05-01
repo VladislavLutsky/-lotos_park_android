@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Main3Activity"></activity>
+        <activity android:name=".GalleryBulvari.gallery" />
+        <activity android:name=".GalleryArchitech.gallery2" />
+        <activity android:name=".GalleryHolls.gallery3" />
+        <activity android:name=".Bulvari" />
+        <activity android:name=".infrastucture" />
+        <activity android:name=".MessageSendler" />
+        <activity android:name=".Main3Activity" />
         <activity android:name=".Knopka3" />
         <activity android:name=".ButtonDolshiki" />
         <activity android:name=".Dolshiki" />
